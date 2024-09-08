@@ -20,7 +20,6 @@ Customizable UI: The user interface includes a white background with light gray 
 ![Flutter todo app](assets/screenshots/GG.png)
 
 ## Animated Overview
-![App Demo](assets/screenshots/ToDoList.gif)
-
+![ToDoList](https://github.com/user-attachments/assets/99645087-2be0-4c52-8ed7-4a8cb6b96923)
 
 
