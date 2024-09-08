@@ -18,5 +18,5 @@ Customizable UI: The user interface includes a white background with light gray 
 
 
 ## Screenshot
-![Flutter todo app](assets/screenshots/GG.png/GG.png)
+![Flutter todo app](assets/screenshots/GG.png)
 
