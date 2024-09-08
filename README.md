@@ -16,7 +16,6 @@ Customizable UI: The user interface includes a white background with light gray 
 - Edit tasks
 - Task completion with a cross-out
 
-
 ## Screenshot
 ![Flutter todo app](assets/screenshots/GG.png)
 
